@@ -221,28 +221,7 @@ Follow these steps to set up the project locally:
 
 ---
 
-## Deploying
 
-You can deploy to platforms like **AWS**, **Railway**, **Heroku**, or **Vercel**. Below are deployment instructions for Railway (which is fairly easy to do):
-
-1. **Fork and clone the repository**:
-   ```bash
-   git clone https://github.com/demirelarda/TrizyBackend.git
-   cd TrizyBackend
-   ```
-
-2. **Push to a new repository**:
-   Create your own repository on GitHub and push the code there.
-
-3. **Connect to Railway**:
-   - Log in to [Railway](https://railway.app/) with GitHub.
-   - Create a new project and link it to your repository.
-
-4. **Set environment variables**:
-   - Go to the "Settings" tab in your Railway project and add the required environment variables as listed in the [Environment Variables](#environment-variables) section.
-
-5. **Deploy**:
-   Railway will automatically detect your Node.js project and deploy it.
 
 
 ## API Documentation
@@ -251,6 +230,7 @@ You can deploy to platforms like **AWS**, **Railway**, **Heroku**, or **Vercel**
 
 ---
 
-## License
+## Screenshots
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
