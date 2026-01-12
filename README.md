@@ -3,19 +3,6 @@
 
 TrizyBackend is the backend for [Trizy mobile app](https://github.com/demirelarda/TrizyApp), a modern e-commerce platform providing personalized shopping experiences, product trials, AI-driven suggestions, and more. This project handles API endpoints, user authentication, product management, and more.
 
-## Table of Contents
-
-- [About](#about)
-- [Tech Stack](#tech-stack)
-- [Environment Variables](#environment-variables)
-- [How to Get The Environment Variables](#guide-to-obtain-required-environment-variables)
-- [Installation](#installation)
-- [Running Locally](#running-locally)
-- [Deploying](#deploying)
-- [API Documentation](#api-documentation)
-- [License](#license)
-
----
 
 ## About
 
@@ -232,5 +219,9 @@ Follow these steps to set up the project locally:
 
 ## Screenshots
 
+<img width="1920" height="1080" alt="Screenshot 2026-01-12 093219" src="https://github.com/user-attachments/assets/f9818912-47a1-45a8-b85e-5b1c392d8f62" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-12 093113" src="https://github.com/user-attachments/assets/4ccd6679-dbac-4b32-a251-a381b931d3af" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-12 093041" src="https://github.com/user-attachments/assets/771366ac-8b99-4f8e-af80-718005046fa5" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-12 092807" src="https://github.com/user-attachments/assets/f59fcd26-cc0e-409d-afd7-bd40886f0ac3" />
 
 
